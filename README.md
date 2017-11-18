@@ -1,1 +1,2 @@
-"# charnacart" 
+# charnacart
+Charnacoin OpenCart Payment Gateway
